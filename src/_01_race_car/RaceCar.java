@@ -41,7 +41,7 @@ public class RaceCar {
 	 */
 	boolean isDamaged() {
 		return damaged;
-	}
+	} 
 	/**
 	 * Brings the car in for a pit stop.
 	 */
