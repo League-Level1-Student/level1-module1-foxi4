@@ -41,6 +41,7 @@ class Microwave {
 			thingToBeCooked.eat();
 		}
 	}
+
 }
 
 public class Popcorn {
