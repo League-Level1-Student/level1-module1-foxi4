@@ -13,6 +13,7 @@ public Candy(String maker, boolean isChocolately, double price) {
 	this.isChocolatey=isChocolately;
 	this.price=price;
 }
+
 public static void main(String[] args) {
 	Candy candy = new Candy("Nestle", false, 4.39);
 }
